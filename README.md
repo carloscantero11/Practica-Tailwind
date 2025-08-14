@@ -1,8 +1,16 @@
 # 📌 Practica - Tailwind
-Este proyecto es una práctica de uso de la biblioteca de CSS Tailwind. Se trata de una página web simple con un diseño minimalista que incluye un header, un main y un footer.
+
+## 📑 Tabla de Contenido  
+- [Descripción](#-descripción)  
+- [Características](#-características)  
+- [Tecnologías Utilizadas](#-tecnologías-utilizadas)  
+- [Instalación](#ℹ️-instalación)  
+- [Licencia](#-licencia)  
+- [Autor](#%EF%B8%8F-autor)  
 
 ## 📜 Descripción
-Esta es una práctica de aprendizaje de Tailwind CSS, un framework CSS utilitario que permite crear interfaces de usuario rápidas y escalables.
+Este proyecto es una práctica de aprendizaje del uso de Tailwind CSS (un framework CSS utilitario que permite crear interfaces de usuario rápidas y escalables). 
+Se trata de una página web simple con un diseño minimalista que incluye un header, un main y un footer.
 
 ## ✅ Características
 - Uso de Tailwind CSS para el diseño y la maquetación de la página.
